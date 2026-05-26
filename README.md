@@ -1,9 +1,11 @@
 # Number Guessing Game 
 
+
 # Features
 - Random Number Generation
 - Multiple Attempts
 - High/Low Hints
+- Error Handling
 - User-Friendly Output
 
 # Technologies Used
@@ -11,7 +13,7 @@
 - Random Module
 - Datetime Module
 
-## How to Run
+# Run Project
 
 ```bash
 python guessing_game.py
